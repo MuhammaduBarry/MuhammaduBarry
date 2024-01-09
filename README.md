@@ -8,7 +8,7 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
   <a href="https://www.youtube.com/channel/UCsYD2Qr2KdTLqXsq0R-AXHg" target="_blank">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="mailto:muhammadubarry5@gmail.com?subject=Subject%20of%20the%20email&body=Hello%20there!">
-    <img alt="youtube views" title="YouTube views" src="[https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php](https://custom-icon-badges.demolab.com/badge/-muhammadubarry5@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white)"/></a> 
+    <img alt="youtube views" title="YouTube views" src="[https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php]<a>(https://custom-icon-badges.demolab.com/badge/-muhammadubarry5@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white)"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
