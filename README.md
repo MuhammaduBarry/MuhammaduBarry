@@ -12,7 +12,7 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
    <img alt="email me" title = "email" src="https://custom-icon-badges.demolab.com/badge/-muhammadubarry5@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white"/>
  </a>
     <a href ="/Users/muhammadubarry/Library/Mobile Documents/com~apple~CloudDocs/Downloads/Muhammadu%20Barry.docx">
-    <img alt="My resume" title="resume" src="[https://custom-icon-badges.demolab.com/badge/-My%20Repos-yellow?style=for-the-badge&logoColor=white&logo=repo](https://custom-icon-badges.demolab.com/badge/-Resume-black?style=for-the-badge&logo=download&logoColor=white)"/>
+    <img alt="My resume" title="resume" src="https://custom-icon-badges.demolab.com/badge/-Resume-black?style=for-the-badge&logo=download&logoColor=white"/>
   </a>
   <a href ="https://github.com/MuhammaduBarry?tab=repositories">
     <img alt="My repos" title="repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-yellow?style=for-the-badge&logoColor=white&logo=repo"/>
