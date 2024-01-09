@@ -14,6 +14,9 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
   <a href ="https://muhammadubarry.github.io/Portfolio-Website/">
     <img alt="portfolio" title="my portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio_Website-teal?style=for-the-badge&logo=rocket133&logoColor=white"/>
   </a>
+   <a href="https://www.linkedin.com/in/muhammadu-barry-6103aa27a/" target="_blank">
+   <img alt="email me" title = "email" src="https://custom-icon-badges.demolab.com/badge/-My_Linkedin-teal?style=for-the-badge&logo=linkedin2123&logoColor=white"/>
+ </a>
   <a href ="https://github.com/MuhammaduBarry?tab=repositories">
     <img alt="My repos" title="repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-yellow?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
