@@ -39,8 +39,10 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
 
 ### <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-![Muhammadu Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammaduBarry&show_icons=true&theme=tokyonight)
+<div style="display:flex;">
+  ![Muhammadu Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammaduBarry&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammaduBarry&show_icons=true&theme=tokyonight&layout=donut-vertical)](https://github.com/MuhammaduBarry/github-readme-stats)
+</div>
 
 <div style="text-align:center;">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+Muhammadu+here...;Hope+you+enjoyed+the+readme....;Have+a+blessed+day+or+night.;&center=true&width=500&height=50"> 
