@@ -11,7 +11,7 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
  <a href="mailto:muhammadubarry5@gmail.com?subject=Subject%20of%20the%20email&body=Hello%20there!" target="_blank">
    <img alt="email me" title = "email" src="https://custom-icon-badges.demolab.com/badge/-muhammadubarry5@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white"/>
  </a>
-  <a href ="">
+  <a href ="https://muhammadubarry.github.io/Portfolio-Website/">
     <img alt="portfolio" title="my portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio_Website-teal?style=for-the-badge&logo=rocket133&logoColor=white"/>
   </a>
   <a href ="https://github.com/MuhammaduBarry?tab=repositories">
@@ -30,3 +30,10 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+#
+
+### 📊 Stats
+
+![Muhammadu Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammaduBarry&show_icons=true&theme=gruvbox)
+
