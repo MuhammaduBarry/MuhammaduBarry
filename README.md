@@ -19,6 +19,8 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
   </a>
 </p>
 
+---
+
 ### 👾 Languages & Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
