@@ -1,5 +1,6 @@
 # 💻 Muhammadu Barry
 
+**`Life Long Learner (Developer/Bug Killer/Cofee Addict/Tech-Savy`**
 <!--
 **MuhammaduBarry/MuhammaduBarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
