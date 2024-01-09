@@ -35,5 +35,5 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
 
 ### 📊 Stats
 
-![Muhammadu Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammaduBarry&show_icons=true&theme=gruvbox)
+![Muhammadu Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammaduBarry&show_icons=true&theme=tokyonight)
 
