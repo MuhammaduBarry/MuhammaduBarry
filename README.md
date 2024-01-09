@@ -8,5 +8,7 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
  <a href="mailto:muhammadubarry5@gmail.com?subject=Subject%20of%20the%20email&body=Hello%20there!" target="_blank">
    <img alt="email me" title = "email" src="https://custom-icon-badges.demolab.com/badge/-muhammadubarry5@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white"/>
  </a>
+ <a href ="">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white" />
+ </a>
 </p>
-  [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1 "Subscribe to my YouTube channel")
