@@ -6,7 +6,7 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
 
 <p align="center">
   <a style="pointer-events: none;">
-  <img alt="NYC" title="new york city" src="https://custom-icon-badges.demolab.com/badge/New_York_City-USA-green?style=for-the-badge&logo=location&logoColor=white"/>
+  <img alt="NYC" title="new york city" src="https://custom-icon-badges.demolab.com/badge/New_York_City-USA-green?style=for-the-badge&logo=location&logoColor=white" style="pointer-events: none;"/>
   </a>
  <a href="mailto:muhammadubarry5@gmail.com?subject=Subject%20of%20the%20email&body=Hello%20there!" target="_blank">
    <img alt="email me" title = "email" src="https://custom-icon-badges.demolab.com/badge/-muhammadubarry5@gmail.com-blue?style=for-the-badge&logo=mention&logoColor=white"/>
