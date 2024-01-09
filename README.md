@@ -43,6 +43,6 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammaduBarry&show_icons=true&theme=tokyonight&layout=donut-vertical)](https://github.com/MuhammaduBarry/github-readme-stats)
 
 <div style="text-align:center;">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Muhammadu;Hope+you+enjoyed+the+readme;I+Would+love+To+learn+from+you;Let+me+get+your+input+on+my+code+or+just+anything+in+general;You+can+reach+me+on+linkedin+or+my+email+@+the+top;now+i+have+to+get+back+to+staring+at+a+computer;Have+a+good+one.;&center=true&width=500&height=50"> 
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+Muhammadu+here;Hope+you+enjoyed+the+readme;Have+a+blessed+day;&center=true&width=500&height=50"> 
   </a>
 </div>
