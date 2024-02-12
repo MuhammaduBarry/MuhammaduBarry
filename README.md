@@ -37,7 +37,7 @@ Hi there! My name is Muhammadu Barry and I'm currently a computer science studen
 
 ---
 
-### 🏫 Languages & frameworks I am currently learning:
+### 🏫 The Language I Am Currently Learning:
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <br/>
 
